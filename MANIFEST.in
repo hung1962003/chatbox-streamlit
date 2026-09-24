@@ -1,0 +1,2 @@
+# Include non-Python package data if added later.
+recursive-include streamlit_chatbox *.md *.txt
